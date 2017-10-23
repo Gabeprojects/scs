@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Organisation Name: Juhudi Urban Arts
+Page Name: Projects
+File Name: Projects.html
+Author: Juhudi Urban Arts IT
+Licence: Private and Protected by copyrights law
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>J.U.A | Projects</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="../layout/styles/layout.css" type="text/css" />
+<style type="text/css">
+#intro_div1 {
+	position: absolute;
+	left: 566px;
+	top: 146px;
+	width: 184px;
+	height: 46px;
+	z-index: 1001;
+}
+#apDiv1 {
+	position: absolute;
+	left: 19px;
+	top: 232px;
+	width: 0px;
+	height: 9px;
+	z-index: 1002;
+}
+#apDiv2 {
+	position: absolute;
+	left: 352px;
+	top: 220px;
+	width: 411px;
+	height: 77px;
+	z-index: 1002;
+}
+#apDiv3 {
+	position: absolute;
+	left: 193px;
+	top: 232px;
+	width: 251px;
+	height: 79px;
+	z-index: 1002;
+}
+</style>
+<style type="text/css">
+#apDiv4 {
+	position: absolute;
+	left: 373px;
+	top: 229px;
+	width: 279px;
+	height: 86px;
+	z-index: 1003;
+}
+#apDiv5 {
+	position: absolute;
+	left: 641px;
+	top: 272px;
+	width: 121px;
+	height: 82px;
+	z-index: 1004;
+}
+#apDiv6 {
+	position: absolute;
+	left: 837px;
+	top: 234px;
+	width: 172px;
+	height: 85px;
+	z-index: 1004;
+}
+#apDiv7 {
+	position: absolute;
+	left: 836px;
+	top: 456px;
+	width: 238px;
+	height: 52px;
+	z-index: 1005;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body id="top">
+<div id="intro_div1">projects</div>
+<div class="wrapper col1">
+  <div id="header">
+    <div id="topnav">
+      <ul>
+        <li class="last"><a href="../gallery.html">Gallery</a><span>Galerie</span></li>
+        <li><a href="#">MEMBERSHIP</a><span>Mitgliedschaft</span>
+          <ul>
+            <li><a href="#">Join Request</a></li>
+            <li><a href="#">Login</a></li>
+            <li><a href="#">Contact Admin</a></li>
+          </ul>
+        </li>
+        <li><a href="../news.html">NEWS</a><span>Nachrichten</span></li>
+        <li class="active"><a href="../about_us.html">About Us</a><span>Über Uns</span></li>
+        <li><a href="../index.html">Home</a><span> Zuhause</span></li>
+      </ul>
+    </div>
+    <div class="fl_left">
+      <h1><a href="../pages/index.html"> Juhudi Urban Arts</a></h1>
+      <p>Developing Artistic Talent</p>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col3">
+  <div id="breadcrumb">
+    <ul>
+      <li class="first">You Are Here</li>
+      <li>&#187;</li>
+      <li><a href="../index.html">Home</a></li>
+      <li>&#187;</li>
+      <li><a href="../about_us.html">About Us</a></li>
+      <li>&#187;</li>
+      <li class="current"><a href="../projects.html">Projects</a></li>
+      
+     
+    </ul>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col4">
+  <div id="container">
+<h1>&nbsp;</h1>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!-- ####################################################################################################### -->
+<div class="wrapper col5">
+  <div id="footer">
+    <p class="fl_left">Copyright &copy; 2015 - All Rights Reserved - <a href="#">JUHUDI URBAN ARTS</a></p>
+    <p class="fl_right">Site designed by <a target="_blank" href="http://www.juait.com" title="Free Website Templates"> J.U.A IT Team</a></p>
+    <br class="clear" />
+  </div>
+</div>
+</body>
+</html>
